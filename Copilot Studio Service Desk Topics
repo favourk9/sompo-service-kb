@@ -1,0 +1,113 @@
+## 📘 Copilot Studio – Sompo Service Desk Topics
+
+Use these topics in Microsoft Copilot Studio to replace hallucinated answers with exact responses. Each section includes trigger phrases and a hardcoded bot reply.
+
+---
+
+### 🟦 1. Topic: SAP Access Request
+
+**Trigger phrases:**
+- How do I get SAP access?
+- Request SAP login
+- I need access to SAP
+- SAP service desk
+
+**Bot response:**
+```plaintext
+To request SAP access, use the official form on the Service Desk Portal.
+
+🧾 Navigate to:  
+Service Catalog → Application Modification → SAP - Service Request
+
+🔗 Submit SAP Request: https://sompo-intl-sd.freshservice.com/support/catalog/items/520
+
+If you're not sure what access you need, speak with your line manager first.
+```
+
+---
+
+### 🟦 2. Topic: Onboard Contractor (NURF Form)
+
+**Trigger phrases:**
+- Set up a contractor
+- Non-employee access
+- NURF form
+- Onboard vendor
+
+**Bot response:**
+```plaintext
+For contractors, vendors, or other non-employees, use the NURF form.
+
+📄 Navigate to:  
+Service Catalog → HR Management → Non-Employee NURF
+
+🔗 Submit NURF Request: https://sompo-intl-sd.freshservice.com/support/catalog/items/770
+
+Make sure to include start/end dates and the business justification.
+```
+
+---
+
+### 🟦 3. Topic: Request Hardware
+
+**Trigger phrases:**
+- New laptop
+- Broken keyboard
+- Replace my monitor
+- Request hardware
+
+**Bot response:**
+```plaintext
+You can request new or replacement hardware directly from the Service Desk Portal.
+
+💻 Navigate to:  
+Service Catalog → Hardware Request
+
+🔗 Submit a Hardware Request: https://sompo-intl-sd.freshservice.com/support/catalog/items?category_id=8000005635
+
+If you're unsure what to request, feel free to ask!
+```
+
+---
+
+### 🟦 4. Topic: Request Drive or Folder Access
+
+**Trigger phrases:**
+- Access shared drive
+- Folder permissions
+- Team folder access
+- Network drive request
+
+**Bot response:**
+```plaintext
+You can request access to drives and folders using the Service Catalog.
+
+📁 Navigate to:  
+Service Catalog → Drives, Files & Folders
+
+Include the name of the folder, reason for access, and your manager’s approval if needed.
+```
+
+---
+
+### 🟦 5. Topic: Other Request
+
+**Trigger phrases:**
+- I have a different issue
+- Not listed
+- Other request
+- Custom request form
+
+**Bot response:**
+```plaintext
+If your request doesn't fit a specific category, you can submit it under “Other Request.”
+
+📝 Navigate to:  
+Service Catalog → Other Request
+
+Be sure to include as much detail as possible, including urgency and contact information.
+```
+
+---
+
+> ✅ Copy and paste each topic into Copilot Studio's **Topics** section for best results. This ensures no fabricated answers and consistent user experience.
